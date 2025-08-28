@@ -16,7 +16,7 @@ This lab explores:
 - Source: [NHANES Heart Disease CSV](https://www.cs.toronto.edu/~lczhang/311/lab02/NHANES-heart.csv)
 - Shape: `(8000, 13)`  
 - Target Variable: `target_heart` (0 = no heart disease, 1 = heart disease)
-- Features include demographics, health metrics, and lifestyle factors such as gender (1=male, 2=female), race_ethnicity, age, drink_alcohol (1=yes, 2=no), blood_cholesterol, blood_pressure_sys, BMI, and chest_pain_ever(1=yes, 2=no).
+- Features include demographics, health metrics, and lifestyle factors such as `gender` (1=male, 2=female), `race_ethnicity`, `age`, `drink_alcohol` (1=yes, 2=no), `blood_cholesterol`, `blood_pressure_sys`, `BMI`, and `chest_pain_ever`(1=yes, 2=no).
 
 ## Key Findings
 
