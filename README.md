@@ -1,4 +1,4 @@
-# CSC311 Lab 2: Decision Trees and Accuracy-based Diagnostics
+# Decision Trees and Accuracy-based Diagnostics
 
 This project demonstrates the use of **decision trees** to analyze a health dataset and explore hyperparameter tuning for optimal classification performance.
 
