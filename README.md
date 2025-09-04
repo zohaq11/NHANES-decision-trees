@@ -24,17 +24,19 @@ This lab explores:
 - **Chest pain** and **gender** also show meaningful differences between groups
 - The balanced dataset (50/50 split) helps prevent bias toward the majority class
 - Optimal hyperparameters: `max_depth=25`, `min_samples_split=4` for entropy criterion
-- Final test accuracy: ~96.5% with entropy criterion
+- Final test accuracy: **~96.5%** with entropy criterion, **96.8%** with gini
 
 ## Outputs
 **Data Exploration**
+
 ![Output](images/output1.png)
 
 ![Output](images/output2.png)
 
 ![Output](images/output3.png)
 
-**Decision Tree Implementation**
+**Decision Tree Implementation and Hyperparameter Tuning**
+
 ![Output](images/output4.png)
 
 ## Visualizations
