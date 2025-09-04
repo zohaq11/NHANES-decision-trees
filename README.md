@@ -29,7 +29,9 @@ This lab explores:
 ## Outputs
 **Data Exploration**
 ![Output](images/output1.png)
+
 ![Output](images/output2.png)
+
 ![Output](images/output3.png)
 
 **Decision Tree Implementation**
@@ -43,9 +45,12 @@ This lab explores:
 
 **Sample Box Plot**
 ![Output](images/age_vs_heart_bp.png)
+
 **Basic Tree**
 ![Output](images/basic_tree.png)
+
 **Overfitting Tree**
 ![Output](images/overfit_tree.png)
+
 **Underfitting Tree**
 ![Output](images/underfit_tree.png)
