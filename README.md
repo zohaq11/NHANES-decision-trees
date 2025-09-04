@@ -44,13 +44,17 @@ This lab explores:
 - Decision tree PNGs.
 
 **Sample Box Plot**
+
 ![Output](images/age_vs_heart_bp.png)
 
 **Basic Tree**
+
 ![Output](images/basic_tree.png)
 
 **Overfitting Tree**
+
 ![Output](images/overfit_tree.png)
 
 **Underfitting Tree**
+
 ![Output](images/underfit_tree.png)
